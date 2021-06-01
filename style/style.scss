@@ -1,0 +1,38 @@
+$unrline: none;
+  
+
+
+$mybgimg : lake lakeone lakefour lakethree lakefive;
+
+@each $bgimg  in $mybgimg{
+    .#{$bgimg}{
+        background-image: url('../imag/#{$bgimg}.jpg');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+}
+
+a:link{
+    
+        text-decoration: $unrline;
+      
+}
+
+ .cartCss1{
+    display:block;
+   
+ }
+ .cartCss2{
+    display:none;
+   
+}
+.cartCss3{
+    display:none;
+}
+.cartCss4{
+    display:none;
+}
+.cartCss5{
+    display:none;
+}
+

@@ -1,0 +1,44 @@
+.lake {
+  background-image: url("../imag/lake.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%; }
+
+.lakeone {
+  background-image: url("../imag/lakeone.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%; }
+
+.lakefour {
+  background-image: url("../imag/lakefour.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%; }
+
+.lakethree {
+  background-image: url("../imag/lakethree.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%; }
+
+.lakefive {
+  background-image: url("../imag/lakefive.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%; }
+
+a:link {
+  text-decoration: none; }
+
+.cartCss1 {
+  display: block; }
+
+.cartCss2 {
+  display: none; }
+
+.cartCss3 {
+  display: none; }
+
+.cartCss4 {
+  display: none; }
+
+.cartCss5 {
+  display: none; }
+
+/*# sourceMappingURL=style.css.map */
